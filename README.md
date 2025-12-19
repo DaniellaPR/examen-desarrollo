@@ -1,4 +1,4 @@
-# Flash Momentos - Estudio Fotográfico
+# Examen Práctico - Estudio Fotográfico
  
 Estudiante: Daniela Pozo  
 Fecha: 18/12/2025  
